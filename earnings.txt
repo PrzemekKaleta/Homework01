@@ -1,0 +1,14 @@
+Marek, Kowalski; 10000.00 zł; umowa o pracę
+Kowalska, Ania B.; 10011.00 zł; zlecenie
+Nowak, Jan, 9321.00 zł; zlecenie
+Kowalczyk, Aneta   11000.00 zł;
+Nowak, Janina, 9322.00 zł; zlecenie
+Pierzak, Jan, 9321.00 zł; zlecenie
+eksport danych
+Pietrzak, Janina, 9322.00 zł; zlecenie
+Woźniak, Marek, ; zlecenie
+Stark, Sansa, 11500.00 zł; umowa o pracę
+Szcześniak, Mietek, 9900.00 zł; zlecenie
+Kosmita, Alf, 5000.00 zł; zlecenie
+Cesar, Juliusz 12300.00 zł; umowa o pracę
+Matejko, Jan 8900.00 zł; umowa o dzieło
